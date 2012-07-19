@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Screen Monitor</string>
+    
+    <string name="screen_is_off">La pantalla está apagada</string>
+    <string name="screen_is_on">La pantalla está encendida</string>
+    
+</resources>
